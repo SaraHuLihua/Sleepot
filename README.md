@@ -15,14 +15,17 @@ This not only helps you express your feelings but also acts as a powerful tool t
 But not only Sleepot listen to your thoughts, it also gives a response following a workflow from your input to its response.
 Sleepot, symbolized by the glass pot, is there to listen, guide, and support you through those challenging moments, just like a trusted companion. And once you get the response, if you are not satisfied with the answer you can ask for another one, and if you are well… that means Sleepot worked and you can go to sleep!
 
-Tech:
+##Tech:
 
 <img width="1512" alt="The tech behind Sleepot" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/c33a16aa-76c1-4bd1-af8d-a2265de061e8">
+
 
 - We built the user interface with SwiftUI and seamlessly combined the Logic part with the Machine Learning component to ensure a holistic and user-friendly approach.
 - We use machine learning to understand the user's emotions and needs. Their input is processed to provide them with personalised advice and relaxation techniques. 
 - With the Text Classification we were able to discern emotions and meaning from the sentences, and process it to get a working ML system in wich Sleepot can actually answer to the user.
 - The app's animations and its mascot, both crafted in Blender, contribute to our dedication in creating a seamless and engaging user experience, rather than just being for aesthetic appeal.
 
+
 <img width="1511" alt="Pasted Graphic 8" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/f5452b75-574b-42f0-9f73-74da73d682e2">
+
 <img width="1512" alt="Beer's Knees" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/a693747e-6e11-4cf6-8c29-5e3ba20cd62e">
