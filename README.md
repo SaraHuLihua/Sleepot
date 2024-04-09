@@ -15,7 +15,7 @@ This not only helps you express your feelings but also acts as a powerful tool t
 But not only Sleepot listen to your thoughts, it also gives a response following a workflow from your input to its response.
 Sleepot, symbolized by the glass pot, is there to listen, guide, and support you through those challenging moments, just like a trusted companion. And once you get the response, if you are not satisfied with the answer you can ask for another one, and if you are well… that means Sleepot worked and you can go to sleep!
 
-##Tech:
+## Tech:
 
 <img width="1512" alt="The tech behind Sleepot" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/c33a16aa-76c1-4bd1-af8d-a2265de061e8">
 
