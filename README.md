@@ -3,14 +3,14 @@
 ![Pasted Graphic 11](https://github.com/SaraHuLihua/Sleepot/assets/148463154/cc47a091-c286-48e1-b1b0-98bfb7b47d6b)
 
   
-How many times has it happened to you that you cannot sleep because of so many thoughts? Because of stress and anxiety?
-How often have you wished you had someone to listen to your thoughts without saying anything, just so you could vent and finally sleep?
+*How many times has it happened to you that you cannot sleep because of so many thoughts? Because of stress and anxiety?*
+*How often have you wished you had someone to listen to your thoughts without saying anything, just so you could vent and finally sleep?*
 It was in answering these questions that Sleepot was born.
 
 Sleepot was born with the aim of reducing the stress and anxiety that keeps students awake, and process their feelings. 
 We wanted to offer university students a platform where they cannot only express and process their emotions but also seek advice to clear their minds before bedtime. 
 
-It All starts with one question: How do you feel?
+It All starts with one question: *How do you feel?*
 But one of the main features of Sleepot, it’s Potty, you pour your thoughts and emotions into it, just as you would when confiding to a close friend.
 This not only helps you express your feelings but also acts as a powerful tool to clear your mind.
 But not only Sleepot listen to your thoughts, it also gives a response following a workflow from your input to its response.
