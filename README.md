@@ -1,6 +1,6 @@
 # Sleepot
 
-![Pasted Graphic 11](https://github.com/SaraHuLihua/Sleepot/assets/148463154/cc47a091-c286-48e1-b1b0-98bfb7b47d6b)
+![Pasted Graphic 11](https://github.com/SaraHuLihua/Sleepot/assets/148463154/cc47a091-c286-48e1-b1b0-98bfb7b47d6b)  
 
 How many times has it happened to you that you cannot sleep because of so many thoughts? Because of stress and anxiety?
 How often have you wished you had someone to listen to your thoughts without saying anything, just so you could vent and finally sleep?
@@ -17,7 +17,7 @@ Sleepot, symbolized by the glass pot, is there to listen, guide, and support you
 
 ## Tech:
 
-<img width="1512" alt="The tech behind Sleepot" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/c33a16aa-76c1-4bd1-af8d-a2265de061e8">
+<img width="1512" alt="The tech behind Sleepot" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/c33a16aa-76c1-4bd1-af8d-a2265de061e8">  
 
 
 - We built the user interface with SwiftUI and seamlessly combined the Logic part with the Machine Learning component to ensure a holistic and user-friendly approach.
@@ -26,6 +26,6 @@ Sleepot, symbolized by the glass pot, is there to listen, guide, and support you
 - The app's animations and its mascot, both crafted in Blender, contribute to our dedication in creating a seamless and engaging user experience, rather than just being for aesthetic appeal.
 
 
-<img width="1511" alt="Pasted Graphic 8" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/f5452b75-574b-42f0-9f73-74da73d682e2">
+<img width="1511" alt="Pasted Graphic 8" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/f5452b75-574b-42f0-9f73-74da73d682e2">  
 
-<img width="1512" alt="Beer's Knees" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/a693747e-6e11-4cf6-8c29-5e3ba20cd62e">
+<img width="1512" alt="Beer's Knees" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/a693747e-6e11-4cf6-8c29-5e3ba20cd62e">  
