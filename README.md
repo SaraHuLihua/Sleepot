@@ -4,6 +4,8 @@
 
 
 ---
+<div style="line-height: 2;">
+
 *How many times has it happened to you that you cannot sleep because of so many thoughts? Because of stress and anxiety?*
 *How often have you wished you had someone to listen to your thoughts without saying anything, just so you could vent and finally sleep?*
 It was in answering these questions that Sleepot was born.  
@@ -18,6 +20,10 @@ But one of the main features of Sleepot, it’s Potty, you pour your thoughts an
 This not only helps you express your feelings but also acts as a powerful tool to clear your mind.  
 But not only Sleepot listen to your thoughts, it also gives a response following a workflow from your input to its response.  
 Sleepot, symbolized by the glass pot, is there to listen, guide, and support you through those challenging moments, just like a trusted companion. And once you get the response, if you are not satisfied with the answer you can ask for another one, and if you are well… that means Sleepot worked and you can go to sleep!  
+
+</div>
+
+
 
 ---
 
