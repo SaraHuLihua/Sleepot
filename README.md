@@ -26,7 +26,6 @@ Sleepot, symbolized by the glass pot, is there to listen, guide, and support you
   
 <img width="1512" alt="The tech behind Sleepot" src="https://github.com/SaraHuLihua/Sleepot/assets/148463154/c33a16aa-76c1-4bd1-af8d-a2265de061e8">
 
----
 
 - We built the user interface with SwiftUI and seamlessly combined the Logic part with the Machine Learning component to ensure a holistic and user-friendly approach.
 - We use machine learning to understand the user's emotions and needs. Their input is processed to provide them with personalised advice and relaxation techniques. 
