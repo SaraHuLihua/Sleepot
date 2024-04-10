@@ -4,7 +4,7 @@
 
 
 ---
-<div style="line-height: 2;">
+<div style="line-height: 3;">
 
 *How many times has it happened to you that you cannot sleep because of so many thoughts? Because of stress and anxiety?*
 *How often have you wished you had someone to listen to your thoughts without saying anything, just so you could vent and finally sleep?*
